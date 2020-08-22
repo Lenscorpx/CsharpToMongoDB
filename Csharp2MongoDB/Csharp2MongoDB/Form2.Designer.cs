@@ -37,15 +37,15 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1227, 158);
+            this.panel1.Size = new System.Drawing.Size(1227, 62);
             this.panel1.TabIndex = 0;
             // 
             // panel2
             // 
             this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel2.Location = new System.Drawing.Point(0, 158);
+            this.panel2.Location = new System.Drawing.Point(0, 62);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(262, 564);
+            this.panel2.Size = new System.Drawing.Size(262, 693);
             this.panel2.TabIndex = 1;
             // 
             // Form2
@@ -53,7 +53,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(43)))), ((int)(((byte)(69)))));
-            this.ClientSize = new System.Drawing.Size(1227, 722);
+            this.ClientSize = new System.Drawing.Size(1227, 755);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
