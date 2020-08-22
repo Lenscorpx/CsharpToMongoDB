@@ -42,9 +42,10 @@
             // 
             // panel2
             // 
-            this.panel2.Location = new System.Drawing.Point(572, 331);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel2.Location = new System.Drawing.Point(0, 158);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(200, 100);
+            this.panel2.Size = new System.Drawing.Size(262, 564);
             this.panel2.TabIndex = 1;
             // 
             // Form2
